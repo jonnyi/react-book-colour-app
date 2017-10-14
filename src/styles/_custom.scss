@@ -1,0 +1,20 @@
+
+.star {
+  width: 20px;
+  height: 20px;
+  float: left;
+  border: 1px solid;
+  padding: 3px;
+  margin: 3px;
+  border-radius: 10px;
+}
+.star.selected {
+  background-color: yellow;
+}
+
+
+.swatch {
+  height: 130px;
+  width: 100%;
+  margin: 0 0 5px 0;
+}
